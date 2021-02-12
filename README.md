@@ -5,8 +5,8 @@ Warcraft III: The Frozen Throne defense funmap.
 ## Play the Map
 
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
-* [v0.01](./MinasTirith v.0.01.w3x)
-* [v0.02](./MinasTirith v.0.02.w3x)
+* [v0.01](./MinasTirith v0.01.w3x)
+* [v0.02](./MinasTirith v0.02.w3x)
 
 ## Credits
 
