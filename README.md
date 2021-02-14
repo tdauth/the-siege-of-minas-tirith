@@ -59,3 +59,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * Nazgul - HerrDave
 * Nazgul Lord - HerrDave
 * Fountain Guard - HerrDave
+* Hero Glow - assasin_lord
