@@ -61,3 +61,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * Fountain Guard - HerrDave
 * Hero Glow - assasin_lord
 * BTNsoldier - GhostThruster
+* CaveTroll - karland90
