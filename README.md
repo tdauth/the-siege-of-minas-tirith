@@ -63,3 +63,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNsoldier - GhostThruster
 * CaveTroll - karland90
 * Legolas - HerrDave
+* Ring of Power - RightField
