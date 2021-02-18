@@ -62,3 +62,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * Hero Glow - assasin_lord
 * BTNsoldier - GhostThruster
 * CaveTroll - karland90
+* Legolas - HerrDave
