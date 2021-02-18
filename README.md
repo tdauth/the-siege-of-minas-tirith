@@ -64,3 +64,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * CaveTroll - karland90
 * Legolas - HerrDave
 * Ring of Power - RightField
+* Swan Knight - HerrDave
