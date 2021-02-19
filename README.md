@@ -65,3 +65,9 @@ Warcraft III: The Frozen Throne defense funmap.
 * Legolas - HerrDave
 * Ring of Power - RightField
 * Swan Knight - HerrDave
+* HaradrimWatchTower - Uncle Fester
+* BTNHaradrimWatchtower - Uncle Fester
+* HaradrimBannerCarrier - Uncle Fester
+* BTNHaradrimBannerCarrier - Uncle Fester
+* BTNHaradrimRider - Uncle Fester
+* HaradrimRider - Uncle Fester
