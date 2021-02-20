@@ -8,6 +8,10 @@ Warcraft III: The Frozen Throne defense funmap.
 * [v0.01](./MinasTirith%20v0.01.w3x)
 * [v0.02](./MinasTirith%20v0.02.w3x)
 
+## Videos
+
+[![Videos on YouTube](https://img.youtube.com/vi/JogI9VyZ7SY/0.jpg)](https://www.youtube.com/watch?v=JogI9VyZ7SY&feature=youtu.be&ab_channel=WarcraftIII%3AReforgedModifications)
+
 ## Credits
 
 * Loading screen and music: Lord of the Rings - The Return of the King
@@ -71,3 +75,5 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNHaradrimBannerCarrier - Uncle Fester
 * BTNHaradrimRider - Uncle Fester
 * HaradrimRider - Uncle Fester
+* BTNAxe - Raging Ent
+* BTNDagger - UnholyDobry
