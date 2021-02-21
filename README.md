@@ -78,4 +78,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * HaradrimRider - Uncle Fester
 * BTNAxe - Raging Ent
 * BTNDagger - UnholyDobry
-*
+* BTNMorgulBlade - Uncle Fester
