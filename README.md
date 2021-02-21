@@ -4,6 +4,7 @@ Warcraft III: The Frozen Throne defense funmap.
 
 ## Play the Map
 
+* [Discord Server](https://discord.gg/C83VG7WneW)
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
 * [v0.01](./MinasTirith%20v0.01.w3x)
 * [v0.02](./MinasTirith%20v0.02.w3x)
@@ -77,3 +78,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * HaradrimRider - Uncle Fester
 * BTNAxe - Raging Ent
 * BTNDagger - UnholyDobry
+*
