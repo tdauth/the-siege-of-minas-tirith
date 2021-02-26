@@ -81,3 +81,5 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNMorgulBlade - Uncle Fester
 * BTNBreadstick - Thorneon
 * Legolas texture - Hueter
+* BTNlegolasHD - GhostThruster
+* Many lord of the Ring models and icons - https://vk.com/albums-67833009
