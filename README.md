@@ -80,3 +80,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNDagger - UnholyDobry
 * BTNMorgulBlade - Uncle Fester
 * BTNBreadstick - Thorneon
+* Legolas texture - Hueter
