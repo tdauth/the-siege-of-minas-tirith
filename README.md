@@ -83,3 +83,5 @@ Warcraft III: The Frozen Throne defense funmap.
 * Legolas texture - Hueter
 * BTNlegolasHD - GhostThruster
 * Many lord of the Ring models and icons - https://vk.com/albums-67833009
+* Umbar Black Ship - infrenus
+* Umbar Black Ship icon - infrenus
