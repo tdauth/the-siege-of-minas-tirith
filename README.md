@@ -85,3 +85,8 @@ Warcraft III: The Frozen Throne defense funmap.
 * Many lord of the Ring models and icons - https://vk.com/albums-67833009
 * Umbar Black Ship - infrenus
 * Umbar Black Ship icon - infrenus
+* Uruk Hai Crossbowman - Fingolfin
+* Uruk Hai Swordsman - Fingolfin
+* Uruk Hai Pikeman - Fingolfin
+* BTNUruk-haiPikeman - Alok
+* BTNPalantirSauron - I3lackDeath
