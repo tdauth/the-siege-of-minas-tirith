@@ -90,3 +90,4 @@ Warcraft III: The Frozen Throne defense funmap.
 * Uruk Hai Pikeman - Fingolfin
 * BTNUruk-haiPikeman - Alok
 * BTNPalantirSauron - I3lackDeath
+* Trololo sound - https://www.myinstants.com/instant/trololo/
