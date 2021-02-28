@@ -8,10 +8,11 @@ Warcraft III: The Frozen Throne defense funmap.
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
 * [v0.01](./MinasTirith%20v0.01.w3x)
 * [v0.02](./MinasTirith%20v0.02.w3x)
+* [v0.03](./MinasTirith%20v0.03.w3x)
 
 ## Videos
 
-[![Videos on YouTube](https://img.youtube.com/vi/JogI9VyZ7SY/0.jpg)](https://www.youtube.com/watch?v=JogI9VyZ7SY&feature=youtu.be&ab_channel=WarcraftIII%3AReforgedModifications)
+[![Videos on YouTube](https://img.youtube.com/vi/JogI9VyZ7SY/0.jpg)](https://www.youtube.com/watch?v=gRlxzRLC0_Y&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=6&ab_channel=WarcraftIII%3AReforgedModifications)
 
 ## Credits
 
@@ -91,3 +92,5 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNUruk-haiPikeman - Alok
 * BTNPalantirSauron - I3lackDeath
 * Trololo sound - https://www.myinstants.com/instant/trololo/
+* Novart - BTNDoombringer
+* PrinceYaser - BTNMace
