@@ -1,4 +1,4 @@
-# Minas Tirith
+# The Siege of Minas Tirith
 
 Warcraft III: The Frozen Throne defense funmap.
 
