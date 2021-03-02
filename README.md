@@ -92,5 +92,7 @@ Warcraft III: The Frozen Throne defense funmap.
 * BTNUruk-haiPikeman - Alok
 * BTNPalantirSauron - I3lackDeath
 * Trololo sound - https://www.myinstants.com/instant/trololo/
-* Novart - BTNDoombringer
-* PrinceYaser - BTNMace
+* BTNDoombringer - Novart
+* BTNMace - PrinceYaser
+* BTNGateOpen - Mayday
+* BTNGateClosed - Mayday
