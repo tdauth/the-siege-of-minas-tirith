@@ -33,6 +33,15 @@ Killing heroes gives a gold bonus to the killing player.
 Unlike the movie the game does not end with the Army of the Dead arriving but when the time is over or the White Tree is destroyed.
 The reason for this is that in this version Sauron has gained the Ring of Power and appears at the end of the battle.
 
+
+### Unit Training
+
+The unit training happens automatically other than in Warcraft III: Reforged.
+You just have to choose the unit type.
+Units will spawn automatically every X seconds.
+You can choose a command which is applied to the spawning units.
+For example, Mordor units can automatically attack the next gate of the city.
+
 ## Videos
 
 [![Videos on YouTube](https://img.youtube.com/vi/JogI9VyZ7SY/0.jpg)](https://www.youtube.com/watch?v=gRlxzRLC0_Y&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=6&ab_channel=WarcraftIII%3AReforgedModifications)
