@@ -1,6 +1,6 @@
 # The Siege of Minas Tirith
 
-Warcraft III: The Frozen Throne defense funmap.
+Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: The Return of the King with some alterations to make the game more fun.
 
 ## Play the Map
 
@@ -9,6 +9,29 @@ Warcraft III: The Frozen Throne defense funmap.
 * [v0.01](./MinasTirith%20v0.01.w3x)
 * [v0.02](./MinasTirith%20v0.02.w3x)
 * [v0.03](./MinasTirith%20v0.03.w3x)
+
+## Description
+
+Two forces fight each other over the city Minas Tirith for 35 minutes.
+Gondor must protect the White Tree at any cost until the time is over.
+Mordor has to destroy the White Tree before the time is over.
+Each player can choose a hero from a number of characters from the Lord of the Ring movies.
+Every character can only be chosen once.
+When the hero dies he/she is revived automatically.
+You can repick your hero whenever you want and will keep the XP and items.
+Each player has to train units and control the shared player which is either Gondor or Mordor.
+Gondor can build defense structures to protect the city like Trebuchets.
+Besides, villagers from Minas Tirith can be rescued into the citadel which gives the players a gold bonus.
+Mordor has to push into the city by destroying the gates to reach the White Tree.
+Whenever a gate is destroyed, the pushing Mordor units will automatically be teleported to it.
+This allows Mordor to push faster into the city with every destroyed gate and make the game harder for Gondor.
+The events from the movie happen in the same order as in the movie.
+Every event will give one of the two forces a new unit type.
+Sometimes this can be actually new heroes from the movie.
+Gold is only used for buying items and upgrading units.
+Killing heroes gives a gold bonus to the killing player.
+Unlike the movie the game does not end with the Army of the Dead arriving but when the time is over or the White Tree is destroyed.
+The reason for this is that in this version Sauron has gained the Ring of Power and appears at the end of the battle.
 
 ## Videos
 
