@@ -128,3 +128,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * BTNMace - PrinceYaser
 * BTNGateOpen - Mayday
 * BTNGateClosed - Mayday
+* BTNBatteringRam - Eagle XI
