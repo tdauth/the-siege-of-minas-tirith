@@ -9,6 +9,7 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 * [v0.01](./MinasTirith%20v0.01.w3x)
 * [v0.02](./MinasTirith%20v0.02.w3x)
 * [v0.03](./MinasTirith%20v0.03.w3x)
+* [v0.04](./MinasTirith%20v0.04.w3x)
 
 ## Description
 
