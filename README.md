@@ -55,7 +55,7 @@ For example, Mordor units can automatically attack the next gate of the city.
 
 ## Videos
 
-[![Videos on YouTube](https://img.youtube.com/vi/gRlxzRLC0_Y/0.jpg)](https://www.youtube.com/watch?v=gRlxzRLC0_Y&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=6&ab_channel=WarcraftIII%3AReforgedModifications)
+[![Videos on YouTube](https://img.youtube.com/vi/IGXnIKSHN3E/0.jpg)](https://www.youtube.com/watch?v=IGXnIKSHN3E&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=1&ab_channel=WarcraftIII%3AReforgedModifications)
 
 ## Credits
 
