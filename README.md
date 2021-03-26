@@ -6,10 +6,11 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 
 * [Discord Server](https://discord.gg/C83VG7WneW)
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
-* [v0.01](./MinasTirith%20v0.01.w3x)
-* [v0.02](./MinasTirith%20v0.02.w3x)
-* [v0.03](./MinasTirith%20v0.03.w3x)
-* [v0.04](./MinasTirith%20v0.04.w3x)
+* [0.1](./TheSiegeOfMinasTirith0.1.w3x)
+* [0.2](./TheSiegeOfMinasTirith0.2.w3x)
+* [0.3](./TheSiegeOfMinasTirith0.3.w3x)
+* [0.4](./TheSiegeOfMinasTirith0.4.w3x)
+* [0.5](./TheSiegeOfMinasTirith0.5.w3x)
 
 ## Description
 
