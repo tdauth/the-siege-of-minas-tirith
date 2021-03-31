@@ -1,6 +1,6 @@
 # The Siege of Minas Tirith
 
-Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: The Return of the King with some alterations to make the game more fun.
+Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: The Return of the King.
 
 ## Play the Map
 
@@ -11,40 +11,38 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 * [0.3](./TheSiegeOfMinasTirith0.3.w3x)
 * [0.4](./TheSiegeOfMinasTirith0.4.w3x)
 * [0.5](./TheSiegeOfMinasTirith0.5.w3x)
+* [0.6](./TheSiegeOfMinasTirith0.6.w3x) (complete redesign of the map)
 
 ## Description
 
-Two forces fight each other over the city Minas Tirith for 35 minutes.
+Two forces fight each other over the city Minas Tirith for some fixed time.
 Gondor must protect the White Tree at any cost until the time is over.
 Mordor has to destroy the White Tree before the time is over.
 
 
-Each player can choose a hero from a number of characters from the Lord of the Ring movies.
+Each player can choose one hero from a number of characters from the Lord of the Ring movies.
 Every character can only be chosen once.
 When the hero dies he/she is revived automatically.
-You can repick your hero whenever you want and will keep the XP and items.
+You can repick your hero and he/she will keep the XP and items.
 
 
 Each player has to train units and control the shared player which is either Gondor or Mordor.
 Gondor can build defense structures to protect the city like Trebuchets.
-Besides, villagers from Minas Tirith can be rescued into the citadel which gives the players a gold bonus.
 
-
+The gates of the city can be opened/closed by Gondor players.
 Mordor has to push into the city by destroying the gates to reach the White Tree.
-Whenever a gate is destroyed, the pushing Mordor units will automatically be teleported to it.
-This allows Mordor to push faster into the city with every destroyed gate and make the game harder for Gondor.
 
-
-Killing units and heroes gives the players gold.
+Killing hostile units and heroes gives the players gold.
 There is no automatic income.
 Gold is only used for buying items and upgrading units.
 
 
-The events from the movie happen in the same order as in the movie.
-Every event will give one of the two forces a new unit type.
-Sometimes this can be actually new heroes from the movie.
-Unlike the movie the game does not end with the Army of the Dead arriving but when the time is over or the White Tree is destroyed.
-The reason for this is that in this version Sauron has gained the Ring of Power and appears at the end of the battle.
+The following events will happpen after a fixed time:
+
+* Ride of the Rohirim
+* Haradrim arrive with Mumakil
+* The Army of the Dead arrives
+* Sauron arrives
 
 ### Unit Training
 
