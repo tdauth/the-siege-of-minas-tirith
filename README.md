@@ -39,10 +39,8 @@ Gold is only used for buying items and upgrading units.
 
 The following events will happpen after a fixed time:
 
-* Ride of the Rohirim
-* Haradrim arrive with Mumakil
-* The Army of the Dead arrives
-* Sauron arrives
+* Ride of the Rohirim and Haradrim arrive with Mumakil
+* The Army of the Dead and Sauron arrive
 
 ### Unit Training
 
@@ -70,8 +68,6 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gondorian Tower (Variation 2) - Fingolfin
 * Gondorian Wall - Fingolfin
 * Gondorian Roof - Fingolfin
-* Siege Ladder - MassiveMaster
-* Ballista(Catapult) - Mike
 * Gondorian House - Fingolfin
 * Gondorian Wall 2 - Fingolfin
 * Ruins of house - Mike
@@ -109,10 +105,8 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Fountain Guard - HerrDave
 * Hero Glow - assasin_lord
 * BTNsoldier - GhostThruster
-* CaveTroll - karland90
 * Legolas - HerrDave
 * Ring of Power - RightField
-* Swan Knight - HerrDave
 * HaradrimWatchTower - Uncle Fester
 * BTNHaradrimWatchtower - Uncle Fester
 * HaradrimBannerCarrier - Uncle Fester
