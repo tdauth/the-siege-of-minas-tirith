@@ -72,7 +72,6 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gondorian Wall 2 - Fingolfin
 * Ruins of house - Mike
 * Mumakil - HerrDave
-* Ram - Mike
 * Siege Tower - Mike
 * Wall Doors - Tranquil
 * Wall Passages - Tranquil
@@ -132,10 +131,12 @@ For example, Mordor units can automatically attack the next gate of the city.
 * BTNMace - PrinceYaser
 * BTNGateOpen - Mayday
 * BTNGateClosed - Mayday
-* BTNBatteringRam - Eagle XI
 * BTNFlameSword - Jay the Editor
 * ArrowVolley - Em!
 * Haradrim Horn Sound - https://www.myinstants.com/instant/haradrim-horn-13713/
 * Rohan Horn Sound - https://www.myinstants.com/instant/rohan-horn-43757/
 * Cliff models and textures - Born2Modificate
 * Lord of the Rings quote sound files - https://www.audiblebeauty.net/returnking.php
+* BTNGrond - https://lotr.fandom.com/wiki/Grond?file=Grond_arrives.png
+* BTNBalrog - https://upload.wikimedia.org/wikipedia/en/7/7f/Balrog500ppx.png
+* BTNMouthOfSauron - https://static.wikia.nocookie.net/lotr/images/f/f2/Mouth_of_Sauron.png/revision/latest?cb=20210117030358
