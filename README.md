@@ -144,3 +144,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Easterling models - HerrDave
 * Witch King on Fell Beast - DaveDave91
 * BTNWitchKingOnFellBeast - DaveDave91
+* Gimli model - Jhotam
