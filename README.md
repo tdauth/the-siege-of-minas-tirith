@@ -169,3 +169,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Witch King on Fell Beast - DaveDave91
 * BTNWitchKingOnFellBeast - DaveDave91
 * Gimli model - Jhotam
+* Replaceable banner - Illidan(Evil)X
