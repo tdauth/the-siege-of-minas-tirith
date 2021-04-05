@@ -20,8 +20,8 @@ Gondor must protect the White Tree at any cost until the time is over.
 Mordor has to destroy the White Tree before the time is over.
 
 
-Each player can choose one hero from a number of characters from the Lord of the Ring movies.
-Every character can only be chosen once.
+Every player can choose one hero from a number of characters from the Lord of the Ring movies.
+Each hero can only be chosen once.
 When the hero dies he/she is revived automatically.
 You can repick your hero and he/she will keep the XP and items.
 
@@ -49,6 +49,27 @@ You just have to choose the unit type.
 Units will spawn automatically every X seconds.
 You can choose a command which is applied to the spawning units.
 For example, Mordor units can automatically attack the next gate of the city.
+
+## Features
+
+* Heroes from the Lord of the Rings movies.
+* Automatic unit spawns.
+* Unit upgrades for gold.
+* Custom Lord of the Rings items for gold.
+* Gates which can be opened/closed by players.
+* Trebuchets on towers.
+* Siege towers.
+* Multiboard with stats.
+* Automatic hero revival.
+* Hero repick.
+* Custom models, icons and textures fitting the movie.
+* Mocks via chat commands with sound effects.
+* Events from the movie with small video sequences.
+* Basic AI for computer-controlled players.
+* Automatic switch of players if all players from a team leave the game.
+* Torches during the night.
+* Destroyable buildings in the city which drop items.
+* Chat command to give players gold.
 
 ## Videos
 
