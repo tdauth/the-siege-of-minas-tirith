@@ -6,11 +6,6 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 
 * [Discord Server](https://discord.gg/C83VG7WneW)
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
-* [0.1](./TheSiegeOfMinasTirith0.1.w3x)
-* [0.2](./TheSiegeOfMinasTirith0.2.w3x)
-* [0.3](./TheSiegeOfMinasTirith0.3.w3x)
-* [0.4](./TheSiegeOfMinasTirith0.4.w3x)
-* [0.5](./TheSiegeOfMinasTirith0.5.w3x)
 * [0.6](./TheSiegeOfMinasTirith0.6.w3x) (complete redesign of the map)
 
 ## Description
@@ -74,6 +69,14 @@ For example, Mordor units can automatically attack the next gate of the city.
 ## Videos
 
 [![Videos on YouTube](https://img.youtube.com/vi/j60HybB0OzU/0.jpg)](https://www.youtube.com/watch?v=j60HybB0OzU&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=5&ab_channel=WarcraftIII%3AReforgedModifications)
+
+## Older Versions
+
+* [0.1](./old/TheSiegeOfMinasTirith0.1.w3x)
+* [0.2](./old/TheSiegeOfMinasTirith0.2.w3x)
+* [0.3](./old/TheSiegeOfMinasTirith0.3.w3x)
+* [0.4](./old/TheSiegeOfMinasTirith0.4.w3x)
+* [0.5](./old/TheSiegeOfMinasTirith0.5.w3x)
 
 ## Credits
 
