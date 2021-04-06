@@ -171,3 +171,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gimli model - Jhotam
 * Replaceable banner - Illidan(Evil)X
 * Gondor archeway door and other city doodads - HerrDave
+* Gondor doors - Tranquil
