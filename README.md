@@ -10,9 +10,9 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 
 ## Description
 
-Two forces fight each other over the city Minas Tirith for some fixed time.
-Gondor must protect the White Tree at any cost until the time is over.
-Mordor has to destroy the White Tree before the time is over.
+Two forces fight each other over the city Minas Tirith.
+Gondor must protect the White Tree at any cost until the Army of Dead arrives.
+Mordor has to destroy the White Tree before the Army of Dead arrives and kills them all.
 
 
 Every player can choose one hero from a number of characters from the Lord of the Ring movies.
@@ -21,7 +21,7 @@ When the hero dies he/she is revived automatically.
 You can repick your hero and he/she will keep the XP and items.
 
 
-Each player has to train units and control the shared player which is either Gondor or Mordor.
+Every player has to train units and control the shared player which is either Gondor or Mordor.
 Gondor can build defense structures to protect the city like Trebuchets.
 
 The gates of the city can be opened/closed by Gondor players.
@@ -35,7 +35,7 @@ Gold is only used for buying items and upgrading units.
 The following events will happpen after a fixed time:
 
 * Ride of the Rohirim and Haradrim arrive with Mumakil
-* The Army of the Dead and Sauron arrive
+* The Army of the Dead arrives
 
 ### Unit Training
 
@@ -85,8 +85,6 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Medieval Trebuchet - olofmoleman
 * Gondor Soldier - Elenai
 * Gondor Shieldbearer - Elenai
-* Sauron - olofmoleman
-* SauronsMace - olofmoleman
 * NazgulRider - olofmoleman
 * Gondorian Tower (Variation 1) - Fingolfin
 * Gondorian Tower (Variation 2) - Fingolfin
@@ -108,8 +106,6 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gimli - Hueter
 * Pregrin Took - Stanakin
 * Lord of the Rings :: Rider of Rohan - CloudWolf
-* BTNSauron - olofmoleman
-* BTNSauronsmace - olofmoleman
 * BTNNazgulRider - olofmoleman
 * BTNTrebuchet - olofmoleman
 * BTNCWRohanRider - CloudWolf
