@@ -11,8 +11,8 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 ## Description
 
 Two forces fight each other over the city Minas Tirith.
-Gondor must protect the White Tree at any cost until the Army of Dead arrives.
-Mordor has to destroy the White Tree before the Army of Dead arrives and kills them all.
+Gondor must protect the White Tree at any cost until the Army of the Dead arrives.
+Mordor has to destroy the White Tree before the Army of the Dead arrives and kills them all.
 
 
 Every player can choose one hero from a number of characters from the Lord of the Ring movies.
