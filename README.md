@@ -169,3 +169,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gondor archeway door and other city doodads - HerrDave
 * Gondor doors - Tranquil
 * Gondor statues (Isildur, Anarion, regular), White Tree model, -  Valandil's Middle Earth Template map https://www.hiveworkshop.com/threads/middle-earth-template.315060/
+* BTNSearingArrowsAlt - BETA
