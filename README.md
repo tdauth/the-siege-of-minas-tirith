@@ -171,3 +171,8 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Gondor statues (Isildur, Anarion, regular), White Tree model, -  Valandil's Middle Earth Template map https://www.hiveworkshop.com/threads/middle-earth-template.315060/
 * BTNSearingArrowsAlt - BETA
 * Easterling models - Filius Dei
+* Cider model - HerrDave
+* BTNDrinkAle - Sin'dorei300
+* BTNWine - kola
+* Madril model - Author: AOTR team (https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) Edited and adapted for wc3: GhostHeroine aka prizraknadache
+* BTNMadril - https://static.wikia.nocookie.net/peter-jacksons-the-lord-of-the-rings-trilogy/images/9/99/Madril.jpg/revision/latest?cb=20151025074132
