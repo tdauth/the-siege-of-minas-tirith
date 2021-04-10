@@ -160,7 +160,7 @@ For example, Mordor units can automatically attack the next gate of the city.
 * BTNGrond - https://lotr.fandom.com/wiki/Grond?file=Grond_arrives.png
 * BTNBalrog - https://upload.wikimedia.org/wikipedia/en/7/7f/Balrog500ppx.png
 * BTNMouthOfSauron - https://static.wikia.nocookie.net/lotr/images/f/f2/Mouth_of_Sauron.png/revision/latest?cb=20210117030358
-* BTNManOfRhun.blp - HerrDave
+* BTNManOfRhun - HerrDave
 * Easterling models - HerrDave
 * Witch King on Fell Beast - DaveDave91
 * BTNWitchKingOnFellBeast - DaveDave91
