@@ -180,3 +180,4 @@ For example, Mordor units can automatically attack the next gate of the city.
 * BTNAthelas - Palaslayer
 * BTNDH_Courage_Aoura - CRAZYRUSSIAN
 * BTNWatcher - https://static.wikia.nocookie.net/lotr/images/e/e6/Watcher1.jpg/revision/latest?cb=20110622155018
+* Upscaled "Textures\CityStructures.blp" file - SpringBreak
