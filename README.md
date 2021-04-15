@@ -183,3 +183,5 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Upscaled "Textures\CityStructures.blp" file - SpringBreak
 * Force Shield(no colour) - ApeJI
 * Force Shield(Team colour) - ApeJI
+* WoodBig model - Ergius
+* BTNWoodBig - Ergius
