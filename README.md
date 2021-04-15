@@ -66,6 +66,16 @@ For example, Mordor units can automatically attack the next gate of the city.
 * Destroyable buildings in the city which drop items.
 * Chat command to give players gold.
 
+## Screenshots
+
+|               |               |
+| ------------- | ------------- |
+| ![City 1](./screenshots/city1.png "City 1")             | ![City 2](./screenshots/city2.png "City 2") |
+| ![City at Night 1](./screenshots/night1.png "City at Night 1")             | ![City at Night 2](./screenshots/night2.png "City at Night 2") |
+| ![City at Night 3](./screenshots/night3.png "City at Night 3")             | ![Orc Army](./screenshots/orcarmy.png "Orc Army") |
+| ![White Tree](./screenshots/whitetree.png "White Tree")             |
+
+
 ## Videos
 
 [![Videos on YouTube](https://img.youtube.com/vi/j60HybB0OzU/0.jpg)](https://www.youtube.com/watch?v=j60HybB0OzU&list=PLmfeGbBvSVGDgneEFN_b3B_pG9pq9R58-&index=5&ab_channel=WarcraftIII%3AReforgedModifications)
