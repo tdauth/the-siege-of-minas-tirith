@@ -47,24 +47,26 @@ For example, Mordor units can automatically attack the next gate of the city.
 
 ## Features
 
-* Heroes from the Lord of the Rings movies.
-* Automatic unit spawns.
-* Unit upgrades for gold.
-* Custom Lord of the Rings items for gold.
-* Gates which can be opened/closed by players.
-* Trebuchets on towers.
-* Siege towers.
-* Multiboard with stats.
-* Automatic hero revival.
-* Hero repick.
+* Heroes, items, units, music, models, textures and icons from the Lord of the Rings movies.
+* Automatic unit spawns with movable rally points.
+* Only unit upgrades and hero items cost gold which is gained by unit kills.
+* Gates which can be opened/closed by Gondor players.
+* Trebuchets on towers with an automatic target flag which can be controlled by Gondor players
+* Siege towers to enter the walls of the city.
+* Multiboard with player stats and information.
+* Automatic hero revivals.
+* Unlimited hero repicks, keeping XP and items.
 * Custom models, icons and textures fitting the movie.
 * Mocks via chat commands with sound effects.
 * Events from the movie with small video sequences.
-* Basic AI for computer-controlled players.
-* Automatic switch of players if all players from a team leave the game.
+* AI and automatic attacks for computer-controlled players.
+* Automatic team balance when all players from a team leave the game.
 * Torches during the night.
 * Destroyable buildings in the city which drop items.
 * Chat command to give players gold.
+* Chat command to start a votekick.
+* Small skippable video sequences.
+* Auto balancing of the food limit depending on the number of playing players.
 
 ## Screenshots
 
