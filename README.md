@@ -8,6 +8,8 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
 * [0.6](./TheSiegeOfMinasTirith0.6.w3x)
 
+The current version of the map is restricted to SD graphics to avoid performance issues and since it uses custom models anyway.
+
 ## Description
 
 Two forces fight each other over the city Minas Tirith.
