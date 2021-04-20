@@ -212,3 +212,4 @@ Important TODOs which need to be fixed for a release (highest priority starting 
 * WoodBig model - Ergius
 * BTNWoodBig - Ergius
 * Gondor banner - https://upload.wikimedia.org/wikipedia/commons/2/2c/Escudo_Real_de_Gondor.svg
+* Hammer - Hermit

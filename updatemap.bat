@@ -1,2 +1,2 @@
-copy C:\Users\barad\Documents\Projekte\minas-tirith\TheSiegeOfMinasTirith0.6.w3x "C:\Users\barad\Documents\Warcraft III\Maps\Download"
+copy C:\Users\Tamino\Documents\Projekte\the-siege-of-minas-tirith\TheSiegeOfMinasTirith0.6.w3x "C:\Users\Tamino\Documents\Warcraft III\Maps\Download"
 pause
