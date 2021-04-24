@@ -211,5 +211,8 @@ Important TODOs which need to be fixed for a release (highest priority starting 
 * Force Shield(Team colour) - ApeJI
 * WoodBig model - Ergius
 * BTNWoodBig - Ergius
-* Gondor banner - https://upload.wikimedia.org/wikipedia/commons/2/2c/Escudo_Real_de_Gondor.svg
 * Hammer - Hermit
+* Gondor banner - https://upload.wikimedia.org/wikipedia/commons/2/2c/Escudo_Real_de_Gondor.svg
+* Mordor banner - https://en.wikipedia.org/wiki/Mordor#/media/File:Flag_of_Mordor_SVG.svg
+* Harad banner icon - https://en.wikipedia.org/wiki/Harad#/media/File:Flag_of_Harad.svg
+* Rohan banner icon - https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_the_Kingdom_of_Rohan_No_Border.svg
