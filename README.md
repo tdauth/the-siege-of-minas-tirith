@@ -217,3 +217,4 @@ Important TODOs which need to be fixed for a release (highest priority starting 
 * Harad banner icon - https://en.wikipedia.org/wiki/Harad#/media/File:Flag_of_Harad.svg
 * Rohan banner icon - https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_the_Kingdom_of_Rohan_No_Border.svg
 * BTNRandomBasicIcon - Jampacked11
+* Mordor Horn sound - https://www.youtube.com/watch?v=sEClzllDVJo
