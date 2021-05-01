@@ -219,3 +219,6 @@ Important TODOs which need to be fixed for a release (highest priority starting 
 * BTNRandomBasicIcon - Jampacked11
 * Mordor Horn sound - https://www.youtube.com/watch?v=sEClzllDVJo
 * KnockBack System - Destroyer95, https://www.hiveworkshop.com/threads/knockback.151662/
+* Teamcolored pulse Aura - Malvodion
+* String functions (adapted) - maskedpoptart, https://www.hiveworkshop.com/threads/string-functions.133059/
+* Survival Ministructure: Skinning Rack - The_Silent
