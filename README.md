@@ -226,3 +226,4 @@ Important TODOs which need to be fixed for a release (highest priority starting 
 * BTNEasterlingsMarch - http://www.councilofelrond.com/wp-content/uploads/modules/My_eGallery/gallery/characters/other/e70asterlings/coetttrohirrim_easterlingsmarch.jpg
 * Easterlings marching and horn sound - https://www.youtube.com/watch?v=5tMVP2JqvVI
 * Easterlings banner - https://www.councilofelrond.com/albums/LHH_Decor/easterling_banner.jpg
+* Animated Grond model - FeelsGoodMan, https://www.hiveworkshop.com/threads/place-units-on-invisible-platforms-with-fixed-z.331906/#post-3482256
