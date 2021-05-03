@@ -13,8 +13,8 @@ The current version of the map is restricted to SD graphics to avoid performance
 ## Description
 
 Two forces fight each other over the city Minas Tirith.
-Gondor must protect the White Tree at any cost until the Army of the Dead arrives.
-Mordor has to destroy the White Tree before the Army of the Dead arrives and kills them all.
+Minas Tirith must protect the White Tree at any cost until the Army of the Dead arrives.
+Sauron's Forces have to destroy the White Tree before the Army of the Dead arrives and kills them all.
 
 
 Every player can choose one hero from a number of characters from the Lord of the Ring movies.
@@ -23,11 +23,9 @@ When the hero dies he/she is revived automatically.
 You can repick your hero and he/she will keep the XP and items.
 
 
-Every player has to train units and control the shared player which is either Gondor or Mordor.
-Gondor can build defense structures to protect the city like Trebuchets.
-
+Every player has to train units which spawn automatically and cost only food.
+Minas Tirith players can control Gates and Trebuchets to defend the city.
 The gates of the city can be opened/closed by Gondor players.
-Mordor has to push into the city by destroying the gates to reach the White Tree.
 
 Killing hostile units and heroes gives the players gold.
 There is no automatic income.
@@ -42,10 +40,9 @@ The following events will happpen after a fixed time:
 ### Unit Training
 
 The unit training happens automatically other than in Warcraft III: Reforged.
-You just have to choose the unit type.
+You just have to choose the unit types which are enabled.
 Units will spawn automatically every X seconds.
-You can choose a command which is applied to the spawning units.
-For example, Mordor units can automatically attack the next gate of the city.
+The spawned units will automatically follow your rally point unit.
 
 ## Features
 
