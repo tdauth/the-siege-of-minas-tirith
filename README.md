@@ -93,14 +93,6 @@ The spawned units will automatically follow your rally point unit.
 
 See [issues](https://github.com/tdauth/the-siege-of-minas-tirith/issues).
 
-Important TODOs which need to be fixed for a release (highest priority starting from the top):
-
-* [571](https://github.com/tdauth/the-siege-of-minas-tirith/issues/571)
-* [535](https://github.com/tdauth/the-siege-of-minas-tirith/issues/535)
-* [445](https://github.com/tdauth/the-siege-of-minas-tirith/issues/445)
-* [421](https://github.com/tdauth/the-siege-of-minas-tirith/issues/421)
-* [416](https://github.com/tdauth/the-siege-of-minas-tirith/issues/416)
-
 ## Credits
 
 * Loading screen and music: Lord of the Rings - The Return of the King
