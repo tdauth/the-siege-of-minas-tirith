@@ -7,9 +7,10 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 * [Discord Server](https://discord.gg/C83VG7WneW)
 * [Download on Hive](https://www.hiveworkshop.com/threads/minas-tirith-0-2.311338/)
 * [Download on Warcraft 3: Reforged - Map database](https://maps.w3reforged.com/maps/categories/castle-defense/the-siege-of-minas-tirith-06-642310)
-* [0.7](./TheSiegeOfMinasTirith0.7.w3x)
+* [TheSiegeOfMinasTirith0.7.w3x](./TheSiegeOfMinasTirith0.7.w3x) (current development version becoming 0.8 at some time)
 
 Use SD graphics and disable health bars to improve the performance.
+Play 4 vs 4 even if you need AI to fill remaining slots.
 
 ## Older Versions
 
@@ -224,3 +225,4 @@ See [issues](https://github.com/tdauth/the-siege-of-minas-tirith/issues).
 * [BTNGimlisAxe](https://www.hiveworkshop.com/threads/btngimlisaxe.120369/) - Luckerguy
 * [BTNThrowingAxe4](https://www.hiveworkshop.com/threads/btnthrowingaxe4.160188/) - Wezthal
 * [BTNFlail](https://www.hiveworkshop.com/threads/btnflail.255044/) - Solu9
+* [BTNINV_Misc_Bone_HumanSkull_01](https://www.hiveworkshop.com/threads/btninv_misc_bone_humanskull_01.55115/) - Blizzard Entertainment
