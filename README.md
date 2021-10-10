@@ -9,7 +9,7 @@ Warcraft III: Reforged defense funmap based on the movie The Lord of the Rings: 
 * [Download on Warcraft 3: Reforged - Map database](https://maps.w3reforged.com/maps/categories/castle-defense/the-siege-of-minas-tirith-06-642310)
 * [0.7](./TheSiegeOfMinasTirith0.7.w3x)
 
-The current version of the map is restricted to SD graphics to avoid performance issues and since it uses custom models anyway.
+Use SD graphics and disable health bars to improve the performance.
 
 ## Older Versions
 
